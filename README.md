@@ -2,6 +2,6 @@
 <img
   src="https://render.gitanimals.org/farms/dhdmstoa2010"
   width="600"
-  height="300"
+  height="700"
 />
 </a>
